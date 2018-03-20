@@ -11,10 +11,22 @@ body{
   color: #0088cc;
 }
 
+.click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#buttonSlideToggle{
+  margin-bottom: 3%;
+}
+
 #fading-info{
   margin-top: 5%;
 }
 
+#sliding-info{
+  margin-top: 2%;
+}
 #info {
   margin-top: 3%;
   background: #528de5;
