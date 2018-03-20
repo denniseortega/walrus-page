@@ -1,3 +1,7 @@
+body{
+  font-size: 14pt;
+}
+
 #image-showing{
   display: none;
 }
@@ -7,6 +11,11 @@
   color: #0088cc;
 }
 
-.clickable:hover {
-  text-decoration: underline;
+#fading-info{
+  margin-top: 5%;
+}
+
+#info {
+  margin-top: 3%;
+  background: #528de5;
 }
